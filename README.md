@@ -13,7 +13,7 @@ This is an E-commerce backend application built using Node.js (Express) and Mong
 1. Clone the repository:
    ```bash
    git clone https://github.com/gamepy91/E-commerce.git
-   cd Ecom-backend
+   cd E-commerce
 
 
 2. Install dependencies: npm install
